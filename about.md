@@ -5,15 +5,15 @@ permalink: /about/
 ---
 
 
-## Education　（教育经历）
+## Education
 
 * Studying in the affiliated high school of northwestern polytechnical university
  
 
-## Roles（社会角色）
+## Roles
 * A example: Founder, ABC Organisation
 
-## Skills（专业技能）
+## Skills
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
@@ -23,7 +23,7 @@ permalink: /about/
 * **Skill 6** - `Skill` / `Skill` 
     
     
-## Achievements（成就）
+## Achievements
 
 
 * [**This is my first achievement**](#) 
@@ -46,4 +46,5 @@ permalink: /about/
 ## Contact me（联系我）
 
 [GIthub](https://github.com/zhangjia00)
+
 [zhangjia__@outlook.com](mailto:zhangjia__@outlook.com)
