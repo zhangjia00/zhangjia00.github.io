@@ -4,23 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+## Education　（教育经历）
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* Studying in the affiliated high school of northwestern polytechnical university
+ 
 
-## Education
+## Roles（社会角色）
+* A example: Founder, ABC Organisation
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
-
-## Skills
+## Skills（专业技能）
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
@@ -30,7 +23,7 @@ Founder, ABC Organisation
 * **Skill 6** - `Skill` / `Skill` 
     
     
-## Achievements
+## Achievements（成就）
 
 
 * [**This is my first achievement**](#) 
@@ -50,7 +43,7 @@ Founder, ABC Organisation
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
-## Contact me
+## Contact me（联系我）
 
 [GIthub](https://github.com/zhangjia00)
 [zhangjia__@outlook.com](mailto:zhangjia__@outlook.com)
