@@ -43,7 +43,7 @@ permalink: /about/
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
-## Contact me（联系我）
+## Contact me
 
 [GIthub](https://github.com/zhangjia00)
 
